@@ -2,7 +2,7 @@
     "name": "ciclo",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://github.com/gonzal11t0/ListaEspera",
+    "homepage": "https://github.com/gonzal11t0/ciclos",
     "dependencies": {
       "@testing-library/jest-dom": "^5.17.0",
       "@testing-library/react": "^13.4.0",
