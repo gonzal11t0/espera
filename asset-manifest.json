@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/espera/static/css/main.3b299b4c.css",
-    "main.js": "/espera/static/js/main.11ebf99f.js",
+    "main.js": "/espera/static/js/main.6165bc46.js",
     "static/js/787.9dab180b.chunk.js": "/espera/static/js/787.9dab180b.chunk.js",
     "index.html": "/espera/index.html",
     "main.3b299b4c.css.map": "/espera/static/css/main.3b299b4c.css.map",
-    "main.11ebf99f.js.map": "/espera/static/js/main.11ebf99f.js.map",
+    "main.6165bc46.js.map": "/espera/static/js/main.6165bc46.js.map",
     "787.9dab180b.chunk.js.map": "/espera/static/js/787.9dab180b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3b299b4c.css",
-    "static/js/main.11ebf99f.js"
+    "static/js/main.6165bc46.js"
   ]
 }
