@@ -6,11 +6,11 @@ class CambiosListaEspera extends Component {
         super(props);
         this.state = {
             persona:[
-                {nombre:"Gonzalo Lazarte", estado:"En espera"},
-                {nombre:"Elisa Besteiro", estado:"En espera"},
-                {nombre:"Mariana Lazarte", estado:"En espera"},
-                {nombre:"Zoel Lazarte", estado:"En espera"},
-                {nombre:"Claudio Lazarte", estado:"En espera"},
+                {nombre:"Persona 1", estado:"En espera"},
+                {nombre:"Persona 2", estado:"En espera"},
+                {nombre:"Persona 3", estado:"En espera"},
+                {nombre:"Persona 4", estado:"En espera"},
+                {nombre:"Persona 5", estado:"En espera"},
             ],
         };
     };
